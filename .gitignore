@@ -1,0 +1,9 @@
+#Ignore
+data/*
+experiments/*
+code/__pycache__
+
+#Allow
+!data/download_data_and_split.sh
+!data/create_own_split.py
+!experiments/README.md

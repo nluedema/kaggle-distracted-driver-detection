@@ -1,0 +1,1 @@
+Directory to store the results of training runs. This directory is ignored by git.
